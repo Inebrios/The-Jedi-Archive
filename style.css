@@ -1,0 +1,28 @@
+/*.logo{
+  background-color:black
+}
+*/
+.navigationBar {
+	font-size: 60px
+}
+
+p {
+	color: white
+}
+
+em {
+	color: white
+}
+
+h2 {
+	color: white
+}
+
+body {
+	 /*background-color:#0d0d0d*/
+	background-image: url(images/space.jpg);
+	background-size: cover;                  
+    background-repeat: no-repeat;
+    background-position: center center; 
+
+}
